@@ -1,0 +1,30 @@
+primaire functies - alle activ.taken -> directe bijdrage. -> org dankt bestaan hieraan.
+
+secundaire functies - alle activ.taken om prim.funct hun werk te laten doen -> te ondersteunen
+
+tertiaire functies - alle activ.taken van een org. die de doelen bepalen voor en richting geven aan de prim.&secun. bedrijfsfunctie.
+- strategisch
+- tactisch
+- operationeel
+
+primaire = inkoopafdeling, productieafdeling, inpakafdeling, transportafdeling, CRM
+secundaire functies = ict-afdeling, personeelszaken, technische dienst, verbeterteam
+tertiaire functies = adviseur, directie, finances
+
+primaire
+inkoop= inkopen grondstoffen, opslaan magazijn
+productie = bewerken grondstoffen tot ingredient, bodems maken -> voorbakken -> voorzien van beleg
+inpak afdeling = pizza's bevriezen en opslaan
+transport afdeling = temperatuur bewaken
+CRM = tv spots maken, juiste klantinformatie ter beschikking stellen
+
+secundaire
+ict-afdeling = beleid checken, pizza's bekijken
+personeelszaken = medewerkers ontslaan of aannemen om wisselingen in de verwachte vraag aan te kunnen.
+technische dienst = oplossen van technische storingen in de fabriek
+verbeterteam = efficientie en effectiviteit van processen checken/verbeteren. verbeteringen faciliteren.
+
+tertiaire
+adviseur =  
+directie = 
+finances = 
